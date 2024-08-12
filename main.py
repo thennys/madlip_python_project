@@ -12,9 +12,12 @@ company2 = get_user_input("Which company do you want to work with")
 
 story = f"""
 My name is {name}, I am very proficient in writing codes {prog_lang1}.I am currently working in my own company {company1}.
+
 I am doing this just to remind myself about the python fundamentals after a long break to study {prog_lang2}.
 
 i want to be part of the full stck community so I decided to take a crash course on {prog_lang2} so that I can gain the skill to compete in
 
 in joining the full stack developers in {company2}
 """
+
+print(story)
